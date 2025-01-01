@@ -4,11 +4,12 @@
 You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. 
 
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
-Thumbs up:  Increase the volume
+
+`Thumbs up:  Increase the volume
 Thumbs down: Decrease the volume
 Left swipe: 'Jump' backwards 10 seconds
 Right swipe: 'Jump' forward 10 seconds  
-Stop: Pause the movie
+Stop: Pause the movie`
 
 The notebook can be executed in both Google colab and Jarvis Lab. Both has different versions of Keras hence minor change is required to run in colab.
 
