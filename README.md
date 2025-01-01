@@ -8,9 +8,9 @@ The dataset can be downloaded from here - https://drive.google.com/uc?id=1ehyrYB
 ## Experiment 1 – With Conv3D model
 Designed Conv3D model with four convolutional layers, and two dense hidden and an output layer with the following parameter count.
 
-Total params: 1,734,661
+**Total params: 1,734,661
 Trainable params: 1,734,661
-Non-trainable params: 0
+Non-trainable params: 0**
 
 Training Result :- Average Training Accuracy : 55%     Validation Accuracy : 35%
 Decision + Explanation : Training accuracy is way higher than the validation accuracy indicates the model is overfitting and validation performance also less
