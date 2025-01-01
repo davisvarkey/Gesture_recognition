@@ -9,7 +9,9 @@ The dataset can be downloaded from here - https://drive.google.com/uc?id=1ehyrYB
 Designed Conv3D model with four convolutional layers, and two dense hidden and an output layer with the following parameter count.
 
 `Total params: 1,734,661
+
 Trainable params: 1,734,661
+
 Non-trainable params: 0`
 
 Training Result :- Average Training Accuracy : 55%     Validation Accuracy : 35%
