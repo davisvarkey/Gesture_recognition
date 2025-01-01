@@ -57,4 +57,4 @@ Hence choosing the best performing model from that experiment - model-00018-0.21
 
 ## Collaborators
 
-Created by @davisvarkey
+Created by [@davisvarkey](https://github.com/davisvarkey)
