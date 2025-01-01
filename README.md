@@ -55,4 +55,6 @@ Decision + Explanation :  Overall performance has improved with more number of p
 The above experiment and its result shows Conv 3D with data augmentation gives the best performing model considering the number of parameters. Though Transfer learning model gives bit higher performance but the number of parameter is almost 4 times than the Conv 3D.
 Hence choosing the best performing model from that experiment - model-00018-0.21707-0.91478-0.63865-0.80500.keras
 
+## Collaborators
 
+Created by @davisvarkey
