@@ -1,5 +1,7 @@
 # Gesture Recognition Model building
 
+The problem statement is you want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. 
+
 The notebook can be executed in both Google colab and Jarvis Lab. Both has different versions of Keras hence minor change is required to run in colab.
 
 The dataset can be downloaded from here - https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
