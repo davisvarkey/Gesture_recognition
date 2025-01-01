@@ -9,9 +9,7 @@ The dataset can be downloaded from here - https://drive.google.com/uc?id=1ehyrYB
 Designed Conv3D model with four convolutional layers, and two dense hidden and an output layer with the following parameter count.
 
 `Total params: 1,734,661
-
 Trainable params: 1,734,661
-
 Non-trainable params: 0`
 
 Training Result :- Average Training Accuracy : 55%     Validation Accuracy : 35%
@@ -46,9 +44,9 @@ Decision + Explanation :  Performance of both train and test has improved compar
 ## Experiment 6 - Transfer Learning with MobileNet pre-trained model with Data Augmentation
 Sixth experiment is carried out with pre-trained model (MobileNet) with GRU units with the following parameter count:-
 
-Total params: 5,081,621
+`Total params: 5,081,621
 Trainable params: 5,081,141
-Non-trainable params: 480
+Non-trainable params: 480`
 
 Training Result :-  Training Accuracy : 96%     Validation Accuracy : 85%
 Decision + Explanation :  Overall performance has improved with more number of parameter.
